@@ -1,0 +1,54 @@
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("background.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+    margin-top: 40px;
+    font-size: 100px;
+    text-align: center;
+
+}
+
+#message-el {
+color:white;
+text-align: center;
+font-size: 40px;
+padding-top: 40px;
+font-style: italic;
+    
+}
+p {
+    color:white;
+    font-size: 30px;
+    text-align: center;
+
+
+}
+button {
+
+color: #023020;
+width: 300px;
+background: goldenrod;
+font-size: 30px;
+text-align: center;
+border-radius: 4px;
+border-color:none;
+margin-bottom: 4px;
+}
+div {
+width:300px;
+margin-left: 490px;
+
+
+}
+
+// 1. Create a card variable, and hard code its value to a number (2-11)
+    
+    // 2. Add the new card to the sum variable
+    
+    // 3. Call startGame()
